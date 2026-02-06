@@ -18,6 +18,7 @@ On this page, I slowly share **R scripts and more** that grow out of my clinical
 
 Thanks for stopping by — and happy coding! 🚀
 
+- Koray
 
 <!--
 **koraydurak/koraydurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
