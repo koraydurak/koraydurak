@@ -5,7 +5,7 @@ Welcome to my GitHub page!
 I’m a **physician** with a passion for **clinical research**. Due to curiosity about data, technology, and innovation, I got pulled into **statistics and R coding**.
 
 I slowly share **R scripts and more** that grow out of my clinical and research work, I hope parts of it can  be **useful, reusable, or spark ideas** for others working in similar areas.
-- see also [our GitLab](https://www.linkedin.com/in/koraydurak](https://gitlab.com/usbch/crib/basel_pmi)
+- see also [our GitLab](https://gitlab.com/usbch/crib/basel_pmi)
 
 > 💡 **Note**  
 > I do not have any professional background in coding, so I am a very slow learner 😄  
