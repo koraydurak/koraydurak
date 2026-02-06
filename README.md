@@ -1,8 +1,8 @@
 ## Dear friends 👋
 
-Welcome to my GitHub page — I’m really glad you’re here!
+Welcome to my GitHub page!
 
-I’m a **physician** with a strong passion for **clinical research**. Along the way, curiosity about data, technology, and innovation pulled me into **statistics and R coding**.
+I’m a **physician** with a passion for **clinical research**. Along the way, curiosity about data, technology, and innovation pulled me into **statistics and R coding**.
 
 On this page, I slowly share **R scripts and more** that grow out of my clinical and research work, I hope parts of it can  be **useful, reusable, or spark ideas** for others working in similar areas.
 
@@ -18,7 +18,8 @@ On this page, I slowly share **R scripts and more** that grow out of my clinical
 
 Thanks for stopping by — and happy coding! 🚀
 
-- Koray
+Cheers, 
+Koray
 
 <!--
 **koraydurak/koraydurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
