@@ -1,6 +1,4 @@
-## Dear friends 👋
-
-Welcome to my GitHub page!
+## Welcome! 👋
 
 I’m a **physician** with a passion for **clinical research**. Due to curiosity about data, technology, and innovation, I got pulled into **statistics and R coding**.
 
@@ -8,8 +6,8 @@ I share scripts or anything that was useful for my projects.
 - see also [our GitLab](https://gitlab.com/usbch/crib/basel_pmi)
 
 > 💡 **Note**  
-> I do not have any professional background in coding, so I am a very slow learner 😄  
-> If you know any interesting packages, functions, formatting tricks, or any experience, I’d genuinely love to learn from you.
+> I do not have any professional background in coding  
+> If you know any interesting packages, functions, formatting tricks, or any experience, I’d genuinely like to learn from you.
 
 ---
 
