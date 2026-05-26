@@ -1,13 +1,9 @@
 ## Welcome! 👋
 
-I’m a **physician** with a passion for **clinical research**. Due to curiosity about data, technology, and innovation, I got pulled into **statistics and R coding**.
+I’m a **clinician/scientist** who is curious about data, technology, and innovation, which pulled me into **statistics and R coding**.
 
 I share scripts or anything that was useful for my projects. 
 - see also [our GitLab](https://gitlab.com/usbch/crib/basel_pmi)
-
-> 💡 **Note**  
-> I do not have any professional background in coding  
-> If you know any interesting packages, functions, formatting tricks, or any experience, I’d genuinely like to learn from you.
 
 ---
 
